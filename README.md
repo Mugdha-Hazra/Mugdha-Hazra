@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" alt="Coding" width="400" src="https://infinitelyteaching.files.wordpress.com/2019/09/download-11.gif">
 <!--
 **Mugdha-Hazra/Mugdha-Hazra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
