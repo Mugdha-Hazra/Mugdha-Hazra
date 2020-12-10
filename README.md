@@ -30,13 +30,5 @@ Skills: C++/ C/ JS / HTML / CSS/Python/JAVA
 - ⚡ Fun fact: when you excel the spread sheet 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mugdha-Hazra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mugdha-hazra-602347200//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mugdha4455/?hl=en/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mugdha-Hazra)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Mugdha-Hazra&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Mugdha-Hazra)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Mugdha-Hazra)  
 
