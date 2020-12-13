@@ -27,7 +27,7 @@ Skills: C++/ C/ JS / HTML / CSS/Python/JAVA
 - 🌱 I’m currently learning Full Stack Development. 
 - 💬 Ask me about Problem-solving. 
 - 😄 Pronouns: she /her. 
-- ⚡ Fun fact: when you excel the spread sheet 
+- ⚡ Fun fact: Purple Day is celebrated on March 26 and there is only one nation with purple in its flag; # Dominica.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mugdha-Hazra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mugdha-hazra-602347200//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mugdha4455/?hl=en/)  
