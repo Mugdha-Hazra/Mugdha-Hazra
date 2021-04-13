@@ -30,6 +30,33 @@ Skills: C++/ C/ JS / HTML / CSS/Python/JAVA
 - ⚡ Fun fact: Purple Day is celebrated on March 26 and there is only one nation with purple in its flag; # Dominica.
 <br/>
 
+![](https://activity-graph.herokuapp.com/graph?username=Mugdha-Hazra&theme=dracula)
+
+## 📲 Connect with me on social media 
+<p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/mugdha-hazra-602347200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <a target="_blank"href="https://www.facebook.com/mugdha.hazra.5/"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <a target="_blank"href="https://github.com/Mugdha-Hazra"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <a target="_blank"href="https://www.instagram.com/mugdha4455/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <a href="https://twitter.com/HazraMugdha"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  </p>
+
+## 💻 Tools and languages I work with
+<div align items="left">
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/json--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/console.png"/>
+<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
+</div>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mugdha-Hazra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mugdha-hazra-602347200//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mugdha4455/?hl=en/)  
 ![Mugdha's github stats](https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra)
   
