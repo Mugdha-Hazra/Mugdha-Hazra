@@ -24,8 +24,8 @@
 Skills: C++/ C/ JS / HTML / CSS/Python/JAVA
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Full Stack Development. 
-- 💬 Ask me about Problem-solving. 
+- 🌱 I’m currently learning Android Development. 
+- 💬 Ask me about Problem-solving and DSA. 
 - 😄 Pronouns: she /her. 
 - ⚡ Fun fact: Purple Day is celebrated on March 26 and there is only one nation with purple in its flag; # Dominica.
 <br/>
