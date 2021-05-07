@@ -32,6 +32,10 @@ Skills: C++/ C/ JS / HTML / CSS/Python/JAVA
 
 ![](https://activity-graph.herokuapp.com/graph?username=Mugdha-Hazra&theme=dracula)
 
+<!-- <div>
+[<img src="https://now-playing-vmk56a653q0yly06o3lmgi3g0.vercel.app/api/spotify-playing" alt="Mugdha Hazra Spotify Playing" width="350" />](https://open.spotify.com/playlist/6DDPsthhJTWi0Tnes8kXFo)
+</div> -->
+
 ## 📲 Connect with me on social media 
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/mugdha-hazra-602347200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -75,6 +79,7 @@ Skills: C++/ C/ JS / HTML / CSS/Python/JAVA
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra)  
 
 ![Profile views](https://gpvc.arturio.dev/Mugdha-Hazra)  
+
 
 
 
