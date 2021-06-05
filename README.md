@@ -7,7 +7,7 @@
 
 <!-- 🔭 I’m currently working on ...-->
 <!--
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -23,11 +23,12 @@
 
 Skills: C++/ C/ JS / HTML / CSS/Python/JAVA
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Android Development. 
+- 🔭 I’m currently working on DSA. 
+- 🌱 I’m currently learning Android Development.
+- 👯 I’m looking to collaborate on Open Source Contributions. 
 - 💬 Ask me about Problem-solving and DSA. 
 - 😄 Pronouns: she /her. 
-- ⚡ Fun fact: Purple Day is celebrated on March 26 and there is only one nation with purple in its flag; # Dominica.
+- ⚡ Fun fact: Purple Day is celebrated on March 26 and there is only one nation with purple in its flag; #Dominica .
 <br/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Mugdha-Hazra&theme=dracula)
