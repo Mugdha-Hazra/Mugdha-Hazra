@@ -38,6 +38,8 @@ Skills: C++/ C/ JS / HTML / CSS/Python/JAVA
 </div> -->
 
 ## 📲 Connect with me on social media 
+<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Connect with me: </p></h3>
+<p align="left">
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/mugdha-hazra-602347200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a target="_blank"href="https://www.facebook.com/mugdha.hazra.5/"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
