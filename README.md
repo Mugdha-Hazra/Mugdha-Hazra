@@ -26,7 +26,7 @@
 
  I am a B.Tech undergrad at Kalinga Institute of Industrial Technology, Bhubaneswar pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
 
-Skills: C++/ C/ JS / HTML / CSS/Python/JAVA
+Skills: C++/ C/ Kotlin/ Python
 
 - 🔭 I’m currently working on DSA. 
 - 🌱 I’m currently learning Android Development.
