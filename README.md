@@ -35,10 +35,9 @@ Skills: C++/ C/ Kotlin/ Python
 - 😄 Pronouns: she /her. 
 - ⚡ Fun fact: Purple Day is celebrated on March 26 and there is only one nation with purple in its flag; #Dominica .
 <br/>
-<!-- <div>
-![](https://activity-graph.herokuapp.com/graph?username=Mugdha-Hazra&theme=react-dark&hide_border=true&area=true)
-</div> -->
-![](https://activity-graph.herokuapp.com/graph?username=Mugdha-Hazra&theme=dracula)
+
+![](https://activity-graph.herokuapp.com/graph?username=Mugdha-Hazra&theme=dracula&hide_border=true&area=true)
+<br/>
 
 <!-- <div>
 [<img src="https://now-playing-vmk56a653q0yly06o3lmgi3g0.vercel.app/api/spotify-playing" alt="Mugdha Hazra Spotify Playing" width="350" />](https://open.spotify.com/playlist/6DDPsthhJTWi0Tnes8kXFo)
