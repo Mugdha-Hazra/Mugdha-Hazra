@@ -90,5 +90,18 @@ Skills: C++/ C/ Kotlin/ Python
 ![Profile views](https://gpvc.arturio.dev/Mugdha-Hazra)  
 
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Mugdha-Hazra" alt="Mugdha-Hazra" /> </p>
+
+<table>
+  <tr>
+    <td><h3>You are Visitor: </h3></td>
+    <td><img src="https://profile-counter.glitch.me/Mugdha-Hazra/count.svg" alt="vistor count" height="40" /></td>
+  </tr>
+</table>
+
+<!--
+For adding portfolio.
+### Visit my detailed [profile](https://drive.google.com/file/d/1_ks4MSCqJwOaIYi-wz1g-Bv0NB2By_7y/view?usp=sharing)
+-->
 
 
