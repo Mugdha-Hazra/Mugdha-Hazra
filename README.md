@@ -89,8 +89,8 @@ Skills: C++/ C/ Kotlin/ Python
 
 ![Profile views](https://gpvc.arturio.dev/Mugdha-Hazra)  
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Mugdha-Hazra" alt="Mugdha-Hazra" /> </p>
+<!--
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Mugdha-Hazra" alt="Mugdha-Hazra" /> </p>-->
 
 <table>
   <tr>
