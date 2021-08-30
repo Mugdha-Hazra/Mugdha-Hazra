@@ -84,6 +84,8 @@ Skills: C++/ C/ Kotlin/ Python
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mugdha-Hazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&show_icons=true)  
+<img width="30%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 ![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)  
 
