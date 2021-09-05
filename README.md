@@ -74,7 +74,8 @@ Skills: C++/ C/ Kotlin/ Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mugdha-Hazra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mugdha-hazra-602347200//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mugdha4455/?hl=en/)  
 
-![Mugdha's github stats](https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra)<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="36.5%" height="197" >  
+![Mugdha's github stats](https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra)
+<!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="36.5%" height="197" >-->  
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mugdha-Hazra)  
 <br/>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='50' height='50'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='45' height='45'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='45' height='45'></a> 
@@ -100,9 +101,10 @@ Skills: C++/ C/ Kotlin/ Python
     <td><h3>You are Visitor No.: </h3></td>
     <td><img src="https://profile-counter.glitch.me/Mugdha-Hazra/count.svg" alt="vistor count" height="45" /></td>
   </tr>
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="50.5%" height="197" > 
  <pre>
 ----------------------------------------
-<span>Byee Have a nice day!!</span>
+<span>Byee Byee Have a nice day!!</span>
 ----------------------------------------
       \   ^__^
        \  (oo)\_______
@@ -110,6 +112,7 @@ Skills: C++/ C/ Kotlin/ Python
               ||--0-w | \/
              _||    _||
 </pre>
+ 
 </table>
 <!-- adding goru(cow)(handmade cow)-->
 
