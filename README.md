@@ -100,7 +100,18 @@ Skills: C++/ C/ Kotlin/ Python
     <td><h3>You are Visitor No.: </h3></td>
     <td><img src="https://profile-counter.glitch.me/Mugdha-Hazra/count.svg" alt="vistor count" height="45" /></td>
   </tr>
+ <pre>
+----------------------------------------
+<span>Byee Have a nice day!!</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+             _||    _||
+</pre>
 </table>
+<!-- adding goru(cow)(handmade cow)-->
 
 <!--
 For adding portfolio.
