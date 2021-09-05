@@ -120,6 +120,6 @@ Skills: C++/ C/ Kotlin/ Python
 For adding portfolio.
 ### Visit my detailed [profile](https://drive.google.com/file/d/1_ks4MSCqJwOaIYi-wz1g-Bv0NB2By_7y/view?usp=sharing)
 for dino game
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="48.5%" height="197" >
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="48.5%" height="230" >
 -->
 
