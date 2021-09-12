@@ -72,9 +72,21 @@ Skills: C++/ C/ Kotlin/ Python
 <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
 </div>
 
-<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mugdha-Hazra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mugdha-hazra-602347200//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mugdha4455/?hl=en/)  -->
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mugdha-Hazra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mugdha-hazra-602347200//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mugdha4455/?hl=en/)  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mugdha-Hazra)](https://github.com/anuraghazra/github-readme-stats) ![Mugdha's github stats](https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mugdha-Hazra)](https://github.com/anuraghazra/github-readme-stats) ![Mugdha's github stats](https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra) -->
+ <table>
+    <tr>
+        <td>
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
+        </td>
+        <td rowspan=2>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugdha-Hazra&theme=dark" align="center"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&count_private=true&theme=dark&show_icons=true" align="center"/></td>
+    </tr>
+</table>
 
 <!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="36.5%" height="197" >
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mugdha-Hazra)  -->
@@ -119,4 +131,3 @@ For adding portfolio.
 for dino game
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="48.5%" height="230" >
 -->
-
