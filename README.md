@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Whatever you do in life, surround yourself with smart people who'll argue with you.</i><br><i>– John Wooden.</i><br></p>
+<p align="center"><br><i>If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.</i><br><i>– John Locke.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
