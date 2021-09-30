@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
+<p align="center"><br><i>Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.</i><br><i>– Chanakya.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
