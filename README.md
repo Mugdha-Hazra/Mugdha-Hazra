@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I hear and I forget. I see and I remember. I do and I understand.</i><br><i>– Confucius.</i><br></p>
+<p align="center"><br><i>Never, never, never give up.</i><br><i>– Winston Churchill.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
