@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Love and friendship exclude each other.</i><br><i>– Jean de La Bruyère.</i><br></p>
+<p align="center"><br><i>A true friend is one who overlooks your failures and tolerates your success!</i><br><i>– Doug Larson.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
