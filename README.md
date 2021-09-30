@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Wisdom, compassion, and courage are the three universally recognized moral qualities of men.</i><br><i>– Confucius.</i><br></p>
+<p align="center"><br><i>Yeah, we all shine on, like the moon, and the stars, and the sun.</i><br><i>– John Lennon.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
