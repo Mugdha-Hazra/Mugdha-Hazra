@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>If you change the way you look at things, the things you look at change.</i><br><i>– Wayne Dyer.</i><br></p>      
+<p align="center"><br><i>If we look at the world with a love of life, the world will reveal its beauty to us.</i><br><i>– Daisaku Ikeda.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
