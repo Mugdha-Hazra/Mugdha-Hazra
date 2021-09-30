@@ -124,7 +124,9 @@ Skills: C++/ C/ Kotlin/ Python
               ||--0-w | \/
              _||    _||
 </pre>
- 
+<!-- QUOTE:START -->
+<!-- QUOTE:END -->
+
 </table>
 <!-- adding goru(cow)(handmade cow)-->
 
