@@ -116,7 +116,7 @@ Skills: C++/ C/ Kotlin/ Python
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="50.5%" height="197" > 
  <pre>
 ----------------------------------------
-<span>Byee Byee Have a nice day!!</span>
+<span># Byee Byee Have a nice day!!</span>
 ----------------------------------------
       \   ^__^
        \  (oo)\_______
