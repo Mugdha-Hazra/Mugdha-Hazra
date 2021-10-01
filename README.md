@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>You've got to go out on a limb sometimes because that's where the fruit is.</i><br><i>– Will Rogers.</i><br></p>
+<p align="center"><br><i>Success is not final; failure is not fatal: it is the courage to continue that counts.</i><br><i>– Winston Churchill.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
