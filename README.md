@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>I think and that is all that I am.</i><br><i>– Wayne Dyer.</i><br></p>
+<p align="center"><br><i>If you correct your mind, the rest of your life will fall into place.</i><br><i>– Laozi.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
