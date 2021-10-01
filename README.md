@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.</i><br><i>– David Rockefeller.</i><br></p>
+<p align="center"><br><i>Waste no more time arguing about what a good man should be. Be one.</i><br><i>– Marcus Aurelius.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
