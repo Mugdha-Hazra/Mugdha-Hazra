@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>In all chaos there is a cosmos, in all disorder a secret order.</i><br><i>– Carl Jung.</i><br></p>
+<p align="center"><br><i>Your talent is God's gift to you. What you do with it is your gift back to God.</i><br><i>– Leo Buscaglia.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
