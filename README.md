@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship is an arrangement by which we undertake to exchange small favors for big ones.</i><br><i>– Montesquieu.</i><br></p>
+<p align="center"><br><i>In all chaos there is a cosmos, in all disorder a secret order.</i><br><i>– Carl Jung.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
