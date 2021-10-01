@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Don't wait. The time will never be just right.</i><br><i>– Napoleon Hill.</i><br></p>
+<p align="center"><br><i>We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.</i><br><i>– Sam Keen.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
