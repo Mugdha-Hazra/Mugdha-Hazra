@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.</i><br><i>– Bruce Lee.</i><br></p>
+<p align="center"><br><i>Your attitude, not your aptitude, will determine your altitude.</i><br><i>– Zig Ziglar.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
