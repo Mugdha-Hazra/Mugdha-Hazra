@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Blessed is the man who expects nothing, for he shall never be disappointed.</i><br><i>– Alexander Pope.</i><br></p>
+<p align="center"><br><i>Don't wait. The time will never be just right.</i><br><i>– Napoleon Hill.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
