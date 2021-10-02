@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Happiness can exist only in acceptance.</i><br><i>– George Orwell.</i><br></p>
+<p align="center"><br><i>If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?</i><br><i>– Confucius.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
