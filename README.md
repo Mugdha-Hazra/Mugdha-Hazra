@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.</i><br><i>– Tony Robbins.</i><br></p>
+<p align="center"><br><i>If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.</i><br><i>– A. A. Milne.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
