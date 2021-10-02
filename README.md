@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.</i><br><i>– Mignon McLaughlin.</i><br></p>
+<a href="https://github.com/jhamadhav/quote-workflow" style="text-decoration:none;color:inherit;"><p align="center"><br><i>Short words are best and the old words when short are best of all.</i><br><i>– Winston Churchill.</i><br></p></a>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
