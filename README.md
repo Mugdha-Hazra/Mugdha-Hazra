@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.</i><br><i>– John F. Kennedy.</i><br></p>
+<p align="center"><br><i>Education is the most powerful weapon which you can use to change the world.</i><br><i>– Nelson Mandela.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
