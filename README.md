@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Friendship, like credit, is highest when it is not used.</i><br><i>– Elbert Hubbard.</i><br></p>
+<p align="center"><br><i>The world is round so that friendship may encircle it.</i><br><i>– Pierre Teilhard de Chardin.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
