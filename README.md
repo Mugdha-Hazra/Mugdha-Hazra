@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Stay away from what might have been and look at what will be.</i><br><i>– Marsha Petrie Sue.</i><br></p>
+<p align="center"><br><i>Our kindness may be the most persuasive argument for that which we believe.</i><br><i>– Gordon Hinckley.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
