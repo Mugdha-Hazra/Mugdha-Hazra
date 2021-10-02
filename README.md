@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>A man is not old as long as he is seeking something.</i><br><i>– Edmond Rostand.</i><br></p>
+<p align="center"><br><i>As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.</i><br><i>– John F. Kennedy.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
