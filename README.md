@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>We cannot do everything at once, but we can do something at once.</i><br><i>– Calvin Coolidge.</i><br></p>
+<p align="center"><br><i>Stay away from what might have been and look at what will be.</i><br><i>– Marsha Petrie Sue.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
