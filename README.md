@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Your attitude, not your aptitude, will determine your altitude.</i><br><i>– Zig Ziglar.</i><br></p>
+<p align="center"><br><i>Honesty is the best policy.</i><br><i>– Benjamin Franklin.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
