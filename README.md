@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>When people are like each other they tend to like each other.</i><br><i>– Tony Robbins.</i><br></p>
+<p align="center"><br><i>This is why I loved technology: if you used it right, it could give you power and privacy.</i><br><i>– Cory Doctorow.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
