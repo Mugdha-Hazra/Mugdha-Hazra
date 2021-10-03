@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.</i><br><i>– Dalai Lama.</i><br></p>
+<p align="center"><br><i>Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.</i><br><i>– Louis Pasteur.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
