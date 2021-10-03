@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.</i><br><i>– Joseph Campbell.</i><br></p>
+<p align="center"><br><i>Our strength grows out of our weaknesses.</i><br><i>– Ralph Waldo Emerson.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
