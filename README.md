@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>We know what we are but know not what we may be.</i><br><i>– William Shakespeare.</i><br></p>
+<p align="center"><br><i>When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.</i><br><i>– Confucius.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
