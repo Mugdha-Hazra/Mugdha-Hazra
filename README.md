@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.</i><br><i>– Margaret Chase Smith.</i><br></p>
+<p align="center"><br><i>The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.</i><br><i>– Anaïs Nin.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
