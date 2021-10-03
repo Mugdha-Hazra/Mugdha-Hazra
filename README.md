@@ -126,7 +126,7 @@ Skills: C++/ C/ Kotlin/ Python
 </pre>
 ## Great Quote 
 <!-- QUOTE:START -->
-<p align="center"><br><i>This is why I loved technology: if you used it right, it could give you power and privacy.</i><br><i>– Cory Doctorow.</i><br></p>
+<p align="center"><br><i>The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.</i><br><i>– Margaret Chase Smith.</i><br></p>
 <!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
