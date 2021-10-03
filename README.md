@@ -124,10 +124,6 @@ Skills: C++/ C/ Kotlin/ Python
               ||--0-w | \/
              _||    _||
 </pre>
-## Great Quote 
-<!-- QUOTE:START -->
-<p align="center"><br><i>We are all inclined to judge ourselves by our ideals; others, by their acts.</i><br><i>– Harold Nicolson.</i><br></p>
-<!-- QUOTE:END -->
 </table>
 <!-- adding goru(cow)(handmade cow)-->
 
