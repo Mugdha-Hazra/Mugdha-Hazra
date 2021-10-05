@@ -101,9 +101,17 @@ Skills: C++/ C/ Kotlin/ Python
 
 ![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra)  
+<!-- [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra)  -->
+<h2 align="center">My Contribution Streak !! :fire:</h2> 
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/Mugdha-Hazra)  
+
 
 <!--
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Mugdha-Hazra" alt="Mugdha-Hazra" /> </p>-->
