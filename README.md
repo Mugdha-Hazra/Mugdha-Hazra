@@ -19,9 +19,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Hi there 👋, my name is Mugdha Hazra
 #### I'm a Competitive Programmer .
 ![I'm a Competitive Programmer .](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)
+
+<h2> Hi, I'm  Mugdha ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
  I am a B.Tech undergrad at Kalinga Institute of Industrial Technology, Bhubaneswar pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
 
