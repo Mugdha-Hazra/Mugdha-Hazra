@@ -106,7 +106,10 @@ Skills: C++/ C/ Kotlin/ Python
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mugdha-Hazra&column=8&theme=gruvbox&no-frame=true"/>
 </a>
+
+<img align="right" width="300" height="300" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 ![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)  
+
 
 <!-- [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra)  -->
 <h2 align="center">My Contribution Streak !! :fire:</h2> 
