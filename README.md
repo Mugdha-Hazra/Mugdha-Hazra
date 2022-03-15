@@ -151,3 +151,9 @@ For adding portfolio.
 for dino game
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="48.5%" height="230" >
 -->
+
+  
+# Bye Bye <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="50" /> 
+<br>
+<br>
+  
