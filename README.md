@@ -31,13 +31,18 @@
  I am a B.Tech undergrad at Kalinga Institute of Industrial Technology, Bhubaneswar pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
 
 
-Skills: C++/ C/ Kotlin/ Python
+## Skills: C++/ C/ Kotlin/ Python
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='125"'>
 - 🔭 I’m currently working on DSA. 
+ 
 - 🌱 I’m currently learning Android Development.
+ 
 - 👯 I’m looking to collaborate on Open Source Contributions. 
+ 
 - 💬 Ask me about Problem-solving and DSA. 
+ 
 - 😄 Pronouns: she /her. 
+ 
 - ⚡ Fun fact: Purple Day is celebrated on March 26 and there is only one nation with purple in its flag; #Dominica .
 <br/>
 
