@@ -1,3 +1,4 @@
+<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" /> Hii there 👋, It's Mugdha Hazra</h1>
 <!--<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/hi-icegif-2.gif"> -->
 
 
@@ -20,7 +21,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, my name is Mugdha Hazra
+<!--### Hi there 👋, my name is Mugdha Hazra*/-->
 #### I'm a Competitive Programmer .
 ![I'm a Competitive Programmer .](https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif)
 
