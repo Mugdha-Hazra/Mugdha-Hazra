@@ -88,6 +88,16 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mugdha-Hazra)](https://github.com/anuraghazra/github-readme-stats) ![Mugdha's github stats](https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra) -->
 <br/>
+<!-- [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra)  -->
+<h2 align="center">My Contribution Streak !! :fire:</h2> 
+
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+  </a>
+</p>
 
 ## Some facts 😄:
  <table>
@@ -120,13 +130,20 @@
 
 
 <!-- [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra)  -->
-<h2 align="center">My Contribution Streak !! :fire:</h2> 
+<!-- <h2 align="center">My Contribution Streak !! :fire:</h2>  -->
 
-<p align="center">
+<!-- <p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+  </a>
+</p> -->
+<!-- <p align="center">
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
-</p>
+</p> -->
 
 ![Profile views](https://gpvc.arturio.dev/Mugdha-Hazra)  
 
@@ -155,13 +172,14 @@
 
 <!--
 For adding portfolio.
+
 ### Visit my detailed [profile](https://drive.google.com/file/d/1_ks4MSCqJwOaIYi-wz1g-Bv0NB2By_7y/view?usp=sharing)
 for dino game
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="48.5%" height="230" >
 -->
-
-  
-# Bye Bye <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="50" /> 
+<p align="Center">
+ <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="60" /><strong>Bye-Bye</strong><img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="70" /> 
+</p>
 <br>
 <br>
   
