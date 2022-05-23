@@ -1,8 +1,15 @@
-<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hii there 👋, It's Mugdha Hazra</h1>
+
+
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+
+<h2>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hii there 👋, It's Mugdha Hazra</h2>
 <!--<img align="right" alt="Coding" width="200" src="https://www.icegif.com/wp-content/uploads/hi-icegif-2.gif"> -->
 
 
-<img align="right" alt="Coding" width="400" src="https://infinitelyteaching.files.wordpress.com/2019/09/download-11.gif"> 
+<img align="right" alt="Coding" width="100" src="https://infinitelyteaching.files.wordpress.com/2019/09/download-11.gif"> 
 
 
 <!--
