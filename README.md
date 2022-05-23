@@ -9,7 +9,7 @@
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
 </p>
-<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hii there 👋, It's Mugdha Hazra, I'm a Competitive Programmer .</h1>
+<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hii there 👋, It's Mugdha Hazra, I'm a Competitive Programmer</h1>
  
    I am a B.Tech undergrad at Kalinga Institute of Industrial Technology, Bhubaneswar pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
  
