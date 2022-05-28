@@ -44,7 +44,7 @@
    <br/>
  
    ## 📲 Connect with me on social media 
- //gtlfi
+ #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
    <!--<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> -->
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
 <p align="left">
