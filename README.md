@@ -62,6 +62,7 @@
 
 ## 💻 Tools and languages I work with
 <img align="left" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
+<img align="right" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
 <div align items="left">
    <img src="https://img.icons8.com/color/48/000000/python.png"/>
    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
