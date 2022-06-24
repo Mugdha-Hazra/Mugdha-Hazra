@@ -17,7 +17,8 @@
    <p align="center">
   <p align="left">
    <a>
-    
+ <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='125"'>
+
    -  Skills: C++/ C/ Kotlin/ Python
    - 🔭 I’m currently working on DSA. 
    - 🌱 I’m currently learning Android Development.
@@ -29,8 +30,8 @@
    </a>
  <p align="center">
    <a>
-<img align="center" height="150" width="150" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
-<img align="center" height="150" width="150" align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> 
+<!-- <img align="center" height="150" width="150" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/> -->
+<!-- <img align="center" height="150" width="150" align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> -->
  </a>
  </p>
  </p>
@@ -45,6 +46,7 @@
  
    ## 📲 Connect with me on social media 
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
+ <img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230">
    <!--<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> -->
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
 <p align="left">
@@ -59,7 +61,7 @@
 </p>
 
 ## 💻 Tools and languages I work with
-
+<img align="left" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
 <div align items="left">
    <img src="https://img.icons8.com/color/48/000000/python.png"/>
    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
