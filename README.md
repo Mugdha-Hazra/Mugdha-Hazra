@@ -136,14 +136,18 @@
 ![Profile views](https://gpvc.arturio.dev/Mugdha-Hazra)  
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 <!--
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Mugdha-Hazra" alt="Mugdha-Hazra" /> </p>-->
 
 <table>
-  <tr>
+ <!-- <tr>
     <td><h3>You are Visitor No.: </h3></td>
     <td><img src="https://profile-counter.glitch.me/Mugdha-Hazra/count.svg" alt="vistor count" height="45" /></td>
-  </tr>
+  </tr> -->
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="50.5%" height="197" > 
  <pre>
 ----------------------------------------
@@ -159,7 +163,6 @@
 </pre>
 </table>
 <!-- adding goru(cow)(handmade cow)-->
-
 <!--
 For adding portfolio.
 
