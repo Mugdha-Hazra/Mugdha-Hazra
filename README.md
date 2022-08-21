@@ -137,6 +137,9 @@
 
 
 ### ✍️ Random Dev Quote
+
+<img align="right" height="100" width="100" src="https://customsitesmedia.usc.edu/wp-content/uploads/sites/308/2016/10/17131545/tumblr_o7jfjpvlny1tbhzhno1_500.gif" width="930"/>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
