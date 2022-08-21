@@ -179,3 +179,34 @@ for dino game
 <br>
 <br>
   
+
+<!--
+<h3 align="Center">Recent Repos:</h3>  
+<br />
+
+<p  align="center">
+  <a href="https://github.com/swagatobag2000/digit-recognition-mobileapp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=digit-recognition-mobileapp&theme=dark" />
+  </a>
+  <a href="https://github.com/swagatobag2000/digit-recognition-webapp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=digit-recognition-webapp&theme=dark" />
+  </a>
+  <a href="https://github.com/swagatobag2000/AI-Enabled-FinTech-B2B-Order-Management-Application_MINOR">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=AI-Enabled-FinTech-B2B-Order-Management-Application_MINOR&theme=dark" />
+  </a>
+  <a href="https://github.com/swagatobag2000/sb_utility_library">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=sb_utility_library&theme=dark" />
+  </a>
+  <a href="https://github.com/swagatobag2000/python-telegram-bot">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=python-telegram-bot&theme=dark&" />
+  </a>
+  <a href="https://github.com/swagatobag2000/Tic-Tac-Toe-Game">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=swagatobag2000&repo=Tic-Tac-Toe-Game&theme=dark&" />
+  </a>
+</p>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+-->
