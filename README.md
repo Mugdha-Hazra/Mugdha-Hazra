@@ -145,6 +145,10 @@
 ---
 <!--
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Mugdha-Hazra" alt="Mugdha-Hazra" /> </p>-->
+<p>Do you know why your Android app screen is lagging while using it, Here we found out the reason and resolution to fix those issues at the client-end.
+https://medium.com/@mugdha2hazra/521c74a964da
+Author By 
+@mugdha.hazra</p>
 
 <table>
  <!-- <tr>
