@@ -50,6 +50,9 @@
    <!--<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> -->
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
 <p align="left">
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mugdha2hazra) 
+
 <p align="left">
    <!-- ---------------------------------------------------------------- -->
     <a target="_blank"href="https://github.com/Mugdha-Hazra"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -211,7 +214,12 @@ for dino game
 </p>
 
 <div align="center">
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ### Show some ❤️ by starring some of the repositories!
 
 -->
+### 😂 Random Dev Meme Guysss now Some MeMe timeee (Do Laugh Out Loud XD)!!!
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
