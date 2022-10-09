@@ -57,6 +57,7 @@
    <a target="_blank"href="https://www.linkedin.com/in/mugdha-hazra-602347200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
    <a target="_blank"href="https://www.facebook.com/mugdha.hazra.5/"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
     <a target="_blank"href="https://www.instagram.com/mugdha4455/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+    <a href="https://medium.com/@mugdha2hazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugdha2hazra" height="30" width="40" /></a>
    <!-- ---------------------------------------------------------------- -->
 </p>
 
