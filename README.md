@@ -40,10 +40,10 @@
   
   ## 💻 My contribution Graph
   
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mugdha-Hazra&theme=vue)
    ![](https://activity-graph.herokuapp.com/graph?username=Mugdha-Hazra&theme=dracula&hide_border=true&area=true)
- 
    <br/>
- 
+   
    ## 📲 Connect with me on social media 
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
  <img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230">
