@@ -120,13 +120,13 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
          <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
       </td>
       <td rowspan=2>
-<!--          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugdha-Hazra&theme=dark" align="center"/> -->
-         <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&show_icons=true&theme=gotham" /></td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugdha-Hazra&theme=dark" align="center"/> 
+<!--          <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&show_icons=true&theme=gotham" /></td> -->
       </td>
    </tr>
-   <tr>
-<!--       <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&show_icons=true&theme=gotham" /></td> -->
-<!--       <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&count_private=true&theme=dark&show_icons=true" align="center"/></td> -->
+<!--    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&show_icons=true&theme=gotham" /></td> -->
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Mugdha-Hazra&count_private=true&theme=dark&show_icons=true" align="center"/></td>
    </tr>
 </table>
 <br/>
