@@ -141,7 +141,7 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 
 ## 💻 My Swagss And Goodies 🎁⭐
 
-|<img src="https://user-images.githubusercontent.com/63424869/225518481-247a4d7f-6969-4ba7-925b-453a98d2c11a.png" width="400" height ="365">|![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)|  
+|<img src="https://user-images.githubusercontent.com/63424869/225518481-247a4d7f-6969-4ba7-925b-453a98d2c11a.png" width="350" height ="365">|![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)|  
 
 
 <img align="right" width="300" height="300" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
