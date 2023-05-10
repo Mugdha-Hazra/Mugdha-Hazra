@@ -60,6 +60,14 @@
    
    ## 📲 Connect with me on social media 
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
+ 
+ <h3 align="left">Coding Profiles:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mugdha-hazra-602347200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mugdha Hazra" height="30" width="40" /></a>
+<a href="https://leetcode.com/mugdha2hazra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mugdha2hazra" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mugdha4455/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mugdha4455" height="30" width="40" /></a>
+</p>
+ 
  <img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230">
    <!--<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> -->
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
