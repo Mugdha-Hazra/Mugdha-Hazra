@@ -1,32 +1,35 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------- -->
-
 <p align="center">
    <a>
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-    <img align="center" height="150" width="150"src="https://infinitelyteaching.files.wordpress.com/2019/09/download-11.gif"/>
-      <img align="center" height="150" width="150"src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"/>
-   <!-- <img align="center" height="150" width="150"src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/> -->
+    <img align="center" height="150" width="150" src="https://infinitelyteaching.files.wordpress.com/2019/09/download-11.gif"/>
+      <img align="center" height="150" width="150" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"/>
+   <!-- <img align="center" height="150" width="150" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/> -->
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
 </p>
-<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hii there 👋, It's Mugdha Hazra, I'm a Competitive Programmer</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Welcome to My Universe! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /></h1>
  
-   I am a B.Tech undergrad at Kalinga Institute of Industrial Technology, Bhubaneswar pursuing Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
+<h3 align="center"> 
+🧋 I am Mugdha Hazra, a passionate Software Developer and an enthusiastic Open Source contributor, crafting digital marvels. 🌟 Connect with me on this cosmic journey through code! 🚀
+</h3>
+   I am a software developer at Schlumberger and did my B.Tech at Kalinga Institute of Industrial Technology, Bhubaneswar in Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
  
-   ## About Me (Intro) ~
-   <p align="center">
+## About Me (In a Nebula) ~
+
+<p align="center">
   <p align="left">
    <a>
  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='5"'>
 
-   -  Skills: C++/ C/ Kotlin/ Python
-   - 🔭 I’m currently working on Android Development and practicing DSA. 
-   - 🌱 I’m currently learning Android Dev.
-   - 👯 I’m looking to collaborate on Open Source Contributions. 
-   - 💬 Ask me about Problem-solving and DSA. 
-   - 😄 Pronouns: she /her. 
-   - ⚡ Fun fact: Purple Day is celebrated on March 26 and there is only one nation with purple in its flag; #Dominica .
- 
+   - 💻 Proficient in: C++/ C/ Kotlin/ Python
+   - 🔭 Currently orchestrating the symphony of Android Development and mastering the art of Data Structures and Algorithms.
+   - 🌱 Continuously expanding the galaxies of software development knowledge.
+   - 👯 Eager to collaborate on shaping the universe through Open Source Contributions.
+   - 💬 Ask me about the secrets of Problem-solving and DSA. 
+   - 😄 My Pronouns: she/her.
+   - ⚡ Fun Fact: Did you know? Purple Day is celebrated on March 26, and there's only one nation with purple in its flag; #Dominica.
+
    </a>
  <p align="center">
    <a>
@@ -35,30 +38,23 @@
  </a>
  </p>
  </p>
-  
-  </br>
-
-<h2 align='center'><i><a href="https://github.com/Mugdha-Hazra/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<!--<h2 align='center'><i><a href="https://github.com/Mugdha-Hazra/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/Mugdha-Hazra/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mugdha-Hazra&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
+</a> -->
 <a href="https://github.com/Mugdha-Hazra/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mugdha-Hazra&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
-
-</br>
   
-   <br/>
-  
-  ## 💻 My contribution Graph
+  ## 💻 My Contribution Constellation
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mugdha-Hazra&theme=vue)
    ![](https://activity-graph.herokuapp.com/graph?username=Mugdha-Hazra&theme=dracula&hide_border=true&area=true)
    <br/>
    
-   ## 📲 Connect with me on social media 
+  ## 📲 Connect with me on social cosmic platforms
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
  
  <h3 align="left">Coding Profiles:</h3>
@@ -86,7 +82,7 @@
    <!-- ---------------------------------------------------------------- -->
 </p>
 
-## 💻 Tools and languages I work with
+## 💻 Crafting with Cosmic Tools and Languages
 <img align="left" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
 <img align="right" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
 <div align items="left">
@@ -110,7 +106,7 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
 </div>
 
-<h2 align="center">My Contribution Streak !! :fire:</h2>
+<h2 align="center">My Contribution Streak 🌟🔥</h2>
 
 <p align="center">
    <a>
@@ -120,7 +116,7 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
    </a>
 </p>
 
-## Some facts 😄:
+## Some Cosmic Facts 😄:
 
 <table>
    <tr>
@@ -139,14 +135,13 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 </table>
 <br/>
 
-## 💻 My Badges 🥇
+## 💻 My Galactic Achievements 🥇
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='50' height='50'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='45' height='45'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='45' height='45'></a> 
 <!--<img width="30%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mugdha-Hazra&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-
 ## 💻 My Swagss And Goodies 🎁⭐
 
 |<img src="https://user-images.githubusercontent.com/63424869/233615039-c59a0ebe-6547-4843-ad23-81729a7f66c4.png" width="350" height ="365">|![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)
