@@ -14,6 +14,9 @@
 🧋 I am Mugdha Hazra, a passionate Software Developer and an enthusiastic Open Source contributor, crafting digital marvels. 🌟 Connect with me on this cosmic journey through code! 🚀
 </h3>
    I am a software developer at Schlumberger and did my B.Tech at Kalinga Institute of Industrial Technology, Bhubaneswar in Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
+   
+## 📐 Activity Graph
+[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mugdha-Hazra&theme=tokyo-night)](https://github.com/euclidstellar/github-readme-activity-graph)
  
 ## About Me (In a Nebula) ~
 
@@ -166,8 +169,8 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 </p> -->
-
-![Profile views](https://gpvc.arturio.dev/Mugdha-Hazra)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mugdha-Hazra&label=Profile%20views&color=0e75b6&style=flat" alt="Mugdha-Hazra" /> </p>
+<!--![Profile views](https://gpvc.arturio.dev/Mugdha-Hazra)  -->
 
 
 ### ✍️ Random Dev Quote
@@ -203,6 +206,9 @@ Author By
   
 </pre>
 </table>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+</div>
 <!-- adding goru(cow)(handmade cow)-->
 <!--
 For adding portfolio.
@@ -252,8 +258,7 @@ for dino game
 ### Show some ❤️ by starring some of the repositories!
 
 -->
-### 😂 Random Dev Meme Guysss now Some MeMe timeee (Do Laugh Out Loud XD)!!!
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+## ⏫ My Holopin board 🚡 
 
 [![@mugdha's Holopin board](https://holopin.me/mugdha)](https://holopin.io/@mugdha)
 
